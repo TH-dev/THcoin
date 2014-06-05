@@ -1,0 +1,9 @@
+Building THcoin
+
+See doc/readme-qt.rst for instructions on building THcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of THcoin.
+
+See doc/build-*.txt for instructions on building THcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of THcoin.
